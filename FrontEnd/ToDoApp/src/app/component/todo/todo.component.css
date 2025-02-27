@@ -1,0 +1,19 @@
+
+
+.todo {
+    background: white; /* White background for the form area */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px; /* Maximum width for the form */
+    width: 100%; /* Full width but constrained by max-width */
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+ 
+  
+  button:hover {
+    background-color: #0f96b8; /* Darker blue on hover */
+  }
